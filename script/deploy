@@ -1,6 +1,6 @@
 #!/bin/sh
 
-ssh app@54.14.35.73 <<EOF
+ssh app@52.14.35.73 <<EOF
   cd ~/jenkins-nodejs-lab
   git pull
   npm install
